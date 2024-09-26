@@ -1,6 +1,6 @@
 # Hello! I'm Eggsy! Full Stack Developer
 
-## About me
+## Languages
 Spanish/English
 
 ## About me
